@@ -1,0 +1,2 @@
+## Movie Combiner
+A Swift application which will create ffmpeg commands to combine movies that are seperated into parts. Full documentation and functionality is forthcoming... Figured I'd open-source this in case it's useful to anyone. 
